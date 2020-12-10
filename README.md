@@ -18,3 +18,11 @@ will be able to see all the major advisors, and academic advisors with their ava
 and time. They can cancel, reschedule their appointment as per their convenience. This
 system surely saves student's time when they will not have to stayed in hold for like thirty
 minutes to reschedule their appointment.
+
+
+Step to execute the project
+1.	Clone the project and download into drive
+2.	First extract the .mysql file and import from  into new schema in DBMS
+3.	Open the Java compiler and open the SeniorProject folder
+4.	Run loginPage.java for execute
+
